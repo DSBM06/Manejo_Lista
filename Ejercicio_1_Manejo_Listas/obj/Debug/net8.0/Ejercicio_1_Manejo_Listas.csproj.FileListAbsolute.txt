@@ -1,0 +1,14 @@
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\bin\Debug\net8.0\Ejercicio_1_Manejo_Listas.exe
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\bin\Debug\net8.0\Ejercicio_1_Manejo_Listas.deps.json
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\bin\Debug\net8.0\Ejercicio_1_Manejo_Listas.runtimeconfig.json
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\bin\Debug\net8.0\Ejercicio_1_Manejo_Listas.dll
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\bin\Debug\net8.0\Ejercicio_1_Manejo_Listas.pdb
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.AssemblyInfoInputs.cache
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.AssemblyInfo.cs
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.dll
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\refint\Ejercicio_1_Manejo_Listas.dll
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.pdb
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\Ejercicio_1_Manejo_Listas.genruntimeconfig.cache
+C:\Users\SONY\Documents\2do_semestre\Ejercicios_Manejo_Listas\Ejercicio_1_Manejo_Listas\obj\Debug\net8.0\ref\Ejercicio_1_Manejo_Listas.dll
